@@ -1,6 +1,6 @@
 {
   "name": "node-moviedb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "lib/index.js",
   "description": "A complimentary Node wrapper for The Open Movie Database.",
   "author": "James Martin-Davies <hello@devjmd.com> (https://devjmd.com)",
