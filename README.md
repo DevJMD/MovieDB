@@ -1,11 +1,11 @@
 #Node MovieDB
 
-An simple precompiled ES6 Node wrapper to pull data from [The Open Movie Database](http://www.omdbapi.com/) using Promises.
+An simple precompiled ES2016 Node wrapper to pull data from [The Open Movie Database](http://www.omdbapi.com/) using Promises.
 
 ###Install
     > npm install --save node-moviedb
 
-###Usage (ES5/6)
+###Usage (ES5/2016)
 	// ES6
     import MovieDB from 'node-moviedb';
 
