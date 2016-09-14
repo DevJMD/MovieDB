@@ -10,7 +10,7 @@ An simple precompiled ES6 Node wrapper to pull data from [The Open Movie Databas
     import MovieDB from 'node-moviedb';
 
     // Require
-    var MovieDB = require('node-moviedb');
+    var MovieDB = require('node-moviedb').default;
 
 ###Parameters
 See http://www.omdbapi.com/#parameters for both Search and Get parameters.
